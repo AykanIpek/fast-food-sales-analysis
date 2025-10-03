@@ -48,6 +48,29 @@ It demonstrates the complete data science workflow: from ingestion and cleaning 
 
 ---
 
+
+## 🚀 How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/username/fast-food-sales-analysis.git
+   cd predict-house-price
+   ```
+
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. Run Jupyter Notebook or Python scripts:
+   ```bash
+   jupyter notebook notebooks/Data Exploring.ipynb
+   ```
+
+---
+
+
+
 ## 📊 Visualization Tools
 - **Matplotlib** & **Seaborn** → static plots.  
 - **Plotly Express** → interactive visualizations.  
