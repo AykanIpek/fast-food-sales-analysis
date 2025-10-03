@@ -53,7 +53,7 @@ It demonstrates the complete data science workflow: from ingestion and cleaning 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/fast-food-sales-analysis.git
+   git clone https://github.com/AykanIpek/fast-food-sales-analysis.git
    cd predict-house-price
    ```
 
