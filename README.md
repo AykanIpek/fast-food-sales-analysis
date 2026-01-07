@@ -94,11 +94,11 @@ It demonstrates the complete data science workflow: from ingestion and cleaning 
 ## 📂 Repository Structure
 ```
 fast-food-sales-analysis/
-│── data/                 # Raw CSV datasets
-│── notebooks/            # Jupyter notebooks with analysis
-│── scripts/              # Python scripts for ETL & modeling
-│── results/              # Plots and outputs
-│── README.md             # Project documentation
+│── Data_Discovery.ipynb/                 # Jupyter notebooks for EDA
+│── Data_Exploring.ipynb/                 # Jupyter notebooks for entire code
+│── Fast-Food Restaurant Chain.zip/       # Raw CSV datasets
+│── requirements.txt/                     # Python Libraries
+│── README.md                             # Project documentation
 ```
 
 ---
